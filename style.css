@@ -1,5 +1,5 @@
 body{
-    background-image:radial-gradient(circle, #1f78d198 0%, #0f1c47e1 85%), url('./images/bg.png');
+    background-image:radial-gradient(circle, #1f78d198 0%, #0f1c47e1 85%), url('./assets/images/bg.png');
     height: 100vh;
 }
 .borderLine{
